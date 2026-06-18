@@ -7,12 +7,10 @@ This is an **independent community project**. It is not affiliated with or endor
 ## Install (one line)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/OWNER/zcode-data-analytics/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/moshall/zcode-data-analytics/master/install.sh | bash
 ```
 
 That's it. The installer writes the plugin into `~/.zcode/cli/plugins/`, registers it in the `zcode-community` marketplace, and enables it. Open a new ZCode session and the skills are active.
-
-> Replace `OWNER` with the real GitHub owner once published.
 
 ### Requirements
 
@@ -23,7 +21,7 @@ That's it. The installer writes the plugin into `~/.zcode/cli/plugins/`, registe
 ### Install from a local clone / dev mode
 
 ```bash
-git clone https://github.com/OWNER/zcode-data-analytics.git
+git clone https://github.com/moshall/zcode-data-analytics.git
 cd zcode-data-analytics
 bash install.sh                 # uses ./plugin/data-analytics
 # or point at any plugin dir:

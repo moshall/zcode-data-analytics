@@ -5,8 +5,8 @@
   "author": {
     "name": "Data Analytics Maintainers (ZCode port)"
   },
-  "homepage": "https://github.com/OWNER/zcode-data-analytics",
-  "repository": "https://github.com/OWNER/zcode-data-analytics",
+  "homepage": "https://github.com/moshall/zcode-data-analytics",
+  "repository": "https://github.com/moshall/zcode-data-analytics",
   "license": "MIT",
   "skills": "./skills/"
 }
